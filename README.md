@@ -1,3 +1,5 @@
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
+
 # AbuBot
 
 ## Список комманд
