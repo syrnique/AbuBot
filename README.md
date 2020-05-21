@@ -115,4 +115,4 @@
 * ###  Для co-host
 | Команда       | Аргумент      | Описание |
 | ------------- | ------------- |----------|
-| **!setrole**  | <co-host / s-adm / vip / player / bad> <имя_игрока> | Изменить роль      |
+| **!setrole**  | <co-host / s-adm / vip / player / bad> <pubcli_id> | Изменить роль      |
